@@ -1,5 +1,5 @@
 ### 🤝🏻 Introduction
-Brif history of Python
+Brief history of Python
 - Created in 1990 by Guido van Rossum.
 - Python 3 released in 2008.
 - Specifically designed as an easy to use language.
